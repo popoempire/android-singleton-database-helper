@@ -1,0 +1,1 @@
+# android-singleton-database-helper
